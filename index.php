@@ -8,7 +8,7 @@
         body {
             background-color: blue;
             color: white;
-            font-size: 24px;
+            font-size: 24px; 
             display: flex;
             justify-content: center;
             align-items: center;

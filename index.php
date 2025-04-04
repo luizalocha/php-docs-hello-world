@@ -8,7 +8,7 @@
         body {
             background-color: blue;
             color: white;
-            font-size: 24px; 
+            font-size: 44px; 
             display: flex;
             justify-content: center;
             align-items: center;
@@ -19,6 +19,6 @@
     </style>
 </head>
 <body>
-    <div>Olá Frank</div>
+    <div>Olám Frank!</div>
 </body>
 </html>
